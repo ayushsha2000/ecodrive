@@ -166,7 +166,7 @@ Github Profile : [https://github.com/ayushsha2000](https://github.com/ayushsha20
 [license-url]: https://github.com/VENGENCE7/EV_Catalog/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
+[linkedin-url]: https://www.linkedin.com/in/ayush-sha-466942215/
 
 
 [Vercel-shield]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
