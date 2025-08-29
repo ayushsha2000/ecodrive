@@ -137,11 +137,11 @@ Distributed under the BSD-3 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Bhavish Anand- bhavish007anand@gmail.com
+Ayush Sha- ayushsha1511@gmail.com
 
-Project Link: [https://github.com/VENGENCE7/EV_Catalog](https://github.com/VENGENCE7/EV_Catalog)
+Project Link: [https://github.com/ayushsha2000/ecodrive](https://github.com/ayushsha2000/ecodrive)
 
-Github Profile : [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
+Github Profile : [https://github.com/ayushsha2000](https://github.com/ayushsha2000)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
