@@ -26,26 +26,6 @@
   </a>
 
 <h3 align="center">EV_Catalog</h3>
-
-  <p align="center">
-    This is a website-catalog of various electric vehicles of the world.Its developed using reactjs.Easily display more data by adding it to the api and it shall automatically be displayed on the webpage.It also automatically recognizes the different category and displays it in the Navbar.
-    <br />
-    <br />
-    <a href="https://vengence7.github.io/EV_Catalog/"><strong> << Git Hub Deployment >></strong></a>
-    <br />
-    <br />
-    <a href="https://ev-catalog.vercel.app"><strong> << Vercel Deployment >></strong></a>
-    <br />
-    <br />
-    <a href="https://ev-catalog.netlify.app/"><strong> << Netlify Deployment >></strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Report Bug</a>
-     : 
-    <a href="https://github.com/VENGENCE7/EV_Catalog/issues">Request Feature</a>
-      :
-    <a href="#contact">Contact me</a>
-  </p>
 </div>
 
 # Preview
